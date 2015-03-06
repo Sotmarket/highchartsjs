@@ -1,0 +1,22 @@
+{
+  "name": "highcharts-release-v2.3.5",
+  "main": "highcharts.js",
+  "version": "2.3.5",
+  "homepage": "https://github.com/Sotmarket/highchartsjs",
+  "authors": [
+    "Vitaly Evsyukov (guyfawkes) <v.evsyukov@sotmarket.ru>"
+  ],
+  "description": "Highcharts releases for version 2.3.5",
+  "keywords": [
+    "highcharts"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js",
+    "test",
+    "tests"
+  ]
+}
